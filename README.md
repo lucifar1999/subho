@@ -1,4 +1,4 @@
-### Note on Computers
+# Note on Computers
 
 A **computer** is an electronic device that processes data and performs tasks according to a set of instructions, commonly known as programs or software. It can perform a wide variety of functions, from simple calculations to complex tasks like running simulations, browsing the internet, or creating multimedia content.
 
